@@ -37,8 +37,8 @@
  
  8) Terraform templates:
  
-    kubernetes installtion template:  https://drupal-terraform.s3.amazonaws.com/kubernetes/
+    kubernetes installation template:  https://drupal-terraform.s3.amazonaws.com/kubernetes/
      
-    Drupal installtion template: https://drupal-terraform.s3.amazonaws.com/latest/
+    Drupal installation template: https://drupal-terraform.s3.amazonaws.com/latest/
  
  
